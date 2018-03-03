@@ -1,0 +1,9 @@
+elems:
+
+  - src: ^(settings.ini)$
+    dst: ~/.config/gtk-3.0/<1>
+    only: f?gtk
+
+  - src: ^(gtkrc-2.0)$
+    dst: ~/.gtkrc-2.0
+    only: f?gtk
