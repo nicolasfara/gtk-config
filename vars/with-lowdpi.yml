@@ -1,0 +1,6 @@
+gtk:
+  font_size: 10
+  cursor_size: 24
+
+
+# vim: set filetype=eruby.yaml :
